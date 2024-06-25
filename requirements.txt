@@ -5,3 +5,4 @@ PyYAML==6.0
 pymongo==4.3.3
 python-dotenv==0.21.0
 pydub==0.25.1
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
